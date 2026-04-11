@@ -1,4 +1,4 @@
-# Guns N' Roses / Green Day / Guitar Presets
+Personal Guitar Presets
 ![Manuel Cortez](img.png)
 
 ### Configuración Recomendada:

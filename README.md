@@ -1,4 +1,4 @@
-Personal Guitar Presets
+# Personal Guitar Presets
 ![Manuel Cortez](img.png)
 
 ### Configuración Recomendada:

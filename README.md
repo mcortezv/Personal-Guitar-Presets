@@ -1,8 +1,8 @@
 # Personal Guitar Presets
 ![Manuel Cortez](img.png)
 
-### Configuración Recomendada:
+### Recommended Configuration:
 
-- H-H / Alnico V
-- Calibre 10/46
-- Escala 648mm / 25.5 pulgadas
+- H-H / ​​Alnico V
+- 10/46 Gauge
+- 648mm / 25.5 inch Scale
